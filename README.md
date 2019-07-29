@@ -4,7 +4,7 @@ talking system
 STEPS
 
 1.pip install
-numpy, mpmath, requests, gensim, janome, mecab(I use mecab-python-windows), gensm, gtts, SpeechRecognition, pygame, mutagen
+numpy, mpmath, requests, gensim, janome, mecab(I use mecab-python-windows), gensm, gtts, SpeechRecognition, pygame, mutagen, PyAudio
 
 2.download word2vec_pretrained_model to 'data/model.vec'
 examples:https://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c
