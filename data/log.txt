@@ -1,0 +1,331 @@
+Ptna System Dialogue Log: 2019-06-10 17:06::13
+> こんにちは
+Ptna:Pattern>こんにちは
+> 元気？
+Ptna:Pattern>スポーツって好き？
+> うん、好きだよ
+Ptna:Pattern>ルンルン
+> 楽しそうだね
+Ptna:Random>しょんぼり
+> 元気だして
+Ptna:Pattern>それかわいい♪
+> ありがとう
+Ptna:Pattern>10円おちてた
+> ラッキーだね
+Ptna:Pattern>じゃあこれ知ってる？
+> なに？
+Ptna:Pattern>あたしってば
+> うん
+Ptna:Pattern>だって無脳だもん
+> 意☆味☆不☆明
+Ptna:Random>正直しんどい
+Ptna System Dialogue Log: 2019-06-10 17:06::43
+> こんにちは
+Ptna:Pattern>こんにちは
+> 元気？
+Ptna:Pattern>喉かわいた
+> なんか飲めば？
+Ptna:Pattern>ありがとう
+> どういたしまして
+Ptna:Pattern>面倒くさーい
+> ごめんね
+Ptna:Pattern>あたしってば
+> ブス？
+Ptna:Random>正直しんどい
+> ブスだからね
+Ptna:Repeat?>ブスだからねってなに？
+> 嘘だよ
+Ptna:Pattern>いい天気だね
+> いい天気だね
+Ptna:Random>なんか飲めば？
+> なんで？
+Ptna:Pattern>正直しんどい
+> 元気だして
+Ptna:Pattern>なんか飲めば？
+> カルピス飲む
+Ptna:Random>ちょーいいじゃん
+> でしょ！！
+Ptna:Random>なんで？
+> かわいいね
+Ptna:Pattern>かわいいってホント！？ホントに！？
+> かわいい！
+Ptna:Pattern>かわいいってホント！？ホントに！？
+Ptna System Dialogue Log: 2019-07-01 16:07::06
+> ひさしぶり
+Ptna:Pattern>なに？
+> ひさしぶり
+Ptna:Random>ルンルン
+> 楽しそうだね
+Ptna:Pattern>だって無脳だもん
+> 無脳ってお気楽なんだね
+Ptna:Random>なんで？
+> 頭がいいと考えなくちゃいけないことが多くて苦しい
+Ptna:Repeat?>頭がいいと考えなくちゃいけないことが多くて苦しいってなに？
+> 高度な知能を持つと自分の選択に不満を持つんだよ
+Ptna:Random>いい天気だね
+> いや、今日は雨だよ
+Ptna:Pattern>あなたはお鍋大好き鍋パーティーピーポー
+> そりゃ、どうも
+Ptna:Pattern>スポーツって好き？
+> バスケットボールが好きかも
+Ptna:Pattern>それな
+Ptna System Dialogue Log: 2019-07-04 17:07::51
+> こんちは
+Ptna:Repeat>こんちはってなに？
+> あいさつだよ。知らないの？
+Ptna:Template>あいさつかぶってしっかり寝なきゃ
+> どういうこと？
+Ptna:Pattern>テンション下がる～
+> ノリを大事にするタイプなんだね
+Ptna:Pattern>あいさつだよ。知らないの？
+> 真似すんな
+Ptna:Template>こんなに晴れてるのに真似になるの？
+> 晴れと真似は関係ないよね？
+Ptna:Pattern>真似すんな
+> うるせー
+Ptna:Random>なに？
+Ptna System Dialogue Log: 2019-07-18 17:07::54
+> ひさしぶり
+Ptna:Pattern>ひさしぶり
+> 頭よくなった？
+Ptna:Random>ごめんごめん
+> なってないみたいだな
+Ptna:Pattern>頭がいいと考えなくちゃいけないことが多くて苦しい
+> 大丈夫、君は馬鹿だから
+Ptna:Template>じゃあ大丈夫すんの？
+> 日本語喋れ
+Ptna:Pattern>意☆味☆不☆明
+> うるさい
+Ptna:Pattern>なんで？
+> ごめんね
+Ptna:Random>それな
+> 何が好きなの
+Ptna:Markov>ありがとう
+> 何が好きなの
+Ptna:Markov>それいいじゃない
+> どういうことだ
+Ptna:Markov>元気だして
+> そりゃどうも
+Ptna:Pattern>いや、今日は雨だよ
+> しばらく梅雨だね
+Ptna:Pattern>顔洗った？
+> 洗ったよ
+Ptna:Template>バスケットボールが好きかも
+> そうなんだ
+Ptna:Markov>あなたはお鍋大好き鍋パーティーピーポー
+Ptna System Dialogue Log: 2019-07-22 23:07::03
+> こんにちは
+ptna：Template> スポーツって好き？
+> まあまあ
+ptna：Markov> そりゃどうも
+> わけわかめ
+ptna：Pattern> スポーツって好き？
+> 別に
+ptna：Random> 嘘だよ
+Ptna System Dialogue Log: 2019-07-23 00:07::35
+> お前雑魚すぎ
+ptna：Pattern> お前なんて呼ばれても…
+> チンパンジー乙
+ptna：Repeat> チンパンジー乙ってなに？
+> お前のことだよ
+ptna：Template> じゃあこれ知ってる？
+> このことだよ
+ptna：Random> どういたしまして
+> ザコシショウって知ってる？
+ptna：Markov> うん、好きだよ
+> 面白いよね
+ptna：Random> きたきたきた
+> もしかしてファン？
+ptna：Template> なんか飲めば？
+> ファンタジーだな、お前
+ptna：Template> さあーファンタジーでしょうね
+Ptna System Dialogue Log: 2019-07-23 01:07::35
+> お前はバカか
+ptna：Pattern> お前なんて呼ばれても…
+> チンパンジー オス
+ptna：Pattern> チンパンジー乙
+> 評価
+ptna：Random> うるせー
+> ブス
+ptna：Template> ブスが？
+> ブス
+ptna：Template> ブスってすごい！
+> かわいい
+ptna：Template> ザコシショウって知ってる？
+> かわいい
+ptna：Random> どういたしまして
+> かわいい
+ptna：Pattern> かわいいってホント！？ホントに！？
+> かわいい
+ptna：Pattern> かわいいってホント！？ホントに！？
+> お前はバカか
+ptna：Template> お前のことだよ
+> それは草
+ptna：Template> 元気？
+> うんちに聞こえた
+ptna：Pattern> ロック好き？
+> 別に
+ptna：Pattern> 高度な知能を持つと自分の選択に不満を持つんだよ
+> キモイ
+ptna：Repeat> キモイってなに？
+> お前のことだよ
+ptna：Random> 頭がいいと考えなくちゃいけないことが多くて苦しい
+Ptna System Dialogue Log: 2019-07-27 01:07::59
+> 楽しいー
+ptna：TalkAPI> そうですね
+> 君と話すのはとても楽しいね
+ptna：Pattern> おなかすいた
+> 僕も
+ptna：Random> 大丈夫、君は馬鹿だから
+> 馬鹿はお腹空かない
+ptna：Markov> 大丈夫、君は馬鹿だから
+> 馬鹿かどうかは問題じゃない
+ptna：TalkAPI> はい得意ですがそれには気を付けます
+> 気をつければいいってもんじゃないよ
+ptna：Markov> 元気だして
+> ありがとう
+ptna：TalkAPI> どういたしまして
+> 研究室にひとりで夜遅くまでいるんだ
+ptna：Random> うん
+> 何か楽しいこと言って
+ptna：TalkAPI> そうなんですね
+> どうなんですか
+ptna：TalkAPI> どうかしましたか
+> 君のことだけど
+ptna：Random> だるい…
+> 楽しいことでも考えなよ
+ptna：TalkAPI> そうなんですね
+> 全然話できてないやん
+ptna：Template> 元気？
+> まあまあ
+ptna：Pattern> なに？
+> うおおおおおおおおおおおおおおお
+ptna：Markov> ファンタジーだな、お前
+> うるせえ
+ptna：Markov> ごめんごめん
+> とても眠いです
+ptna：TalkAPI> 大丈夫ですか?
+> やさしいじゃん
+ptna：Pattern> ザコシショウって知ってる？
+> 誇張しすぎる人ね
+ptna：Template> 誇張が？
+Ptna System Dialogue Log: 2019-07-27 02:07::38
+> こんばんは
+ptna：Pattern> わんばんこ
+> どうしたら仲良くなれるかな
+ptna：Random> 元気？
+> あんまり元気ないかも
+ptna：TalkAPI> そういうときもあります
+> やさしいじゃん。ありがとう
+ptna：Pattern> 楽しそうだね
+> 君のおかげだよ
+ptna：TalkAPI> わかりました
+> 何がわかったの
+ptna：Random> 面白いよね
+> 3分あれば寝れる
+ptna：TalkAPI> あなたは生きるのです
+> 君は死ぬ気なの？
+ptna：Pattern> 気をつければいいってもんじゃないよ
+> じゃあどうするの？
+ptna：Template> 10円おちてた
+> よかったね！
+ptna：Pattern> ありがとう
+Ptna System Dialogue Log: 2019-07-27 22:07::00
+> 面倒くさーい
+ptna：Repeat> 面倒くさーいってなに？
+> これからの人生のことだよ
+ptna：Random> かわいい
+> それはありがとう
+ptna：Markov> これからの人生のことだよ
+> 真似したな
+ptna：TalkAPI> それは良かったです
+> もうちょっと頭よくなれないかな
+ptna：TalkAPI> そんなこと言わないで下さいね
+> 冗談だよ
+ptna：Random> しばらく梅雨だね
+> 台風で天気悪かっただけだよ
+ptna：TalkAPI> そうですか?
+> うん
+ptna：Markov> いや、今日は雨だよ
+> はい、その通りです
+ptna：Template> じゃあどうするの？
+> お外で遊ぶ！
+ptna：Template> あなたはお鍋大好き鍋パーティーピーポー
+> じゃあ家で遊ぼうかな
+ptna：Template> なんで？
+> 家で遊んでそのままお鍋パーティーさ！
+ptna：Markov> はい、その通りです
+> 一緒に食べようよ
+ptna：TalkAPI> それは良かったですね
+> 君も来てよ！
+ptna：Random> かわいい！
+> うるせーww
+ptna：Markov> まじすか
+Ptna System Dialogue Log: 2019-07-27 23:07::02
+> ザコシショウって知ってる？
+ptna：Repeat> ザコシショウってなに？
+> お笑い芸人だよ
+ptna：Markov> 君のおかげだよ
+> 知らなかった？
+ptna：Random> うおおおおおおおおおおおおおおお
+> どうしたwww
+ptna：Pattern> お外で遊ぶ！
+> 元気で何よりです
+ptna：Template> え、やだな、元気
+> なんで？
+ptna：Template> それいいじゃない
+> 良いものが嫌いなの？
+ptna：Markov> いい天気だね
+> 話逸らすな
+ptna：Random> おなかすいた
+> 自由人だね
+ptna：Template> そんな自由なんてないぞ
+> ロボットだしね
+ptna：Random> じゃあ家で遊ぼうかな
+> うん、バイバイ
+ptna：Random> それいいじゃない
+Ptna System Dialogue Log: 2019-07-28 01:07::32
+> こんにちは
+ptna：Markov> ノリを大事にするタイプなんだね
+> 大事ことは譲らないことだよ
+ptna：Markov> ノリを大事にするタイプなんだね
+> もう実践してる
+ptna：Random> 晴れと真似は関係ないよね？
+> なんのこと
+ptna：Pattern> ブス？
+> 言ってない
+ptna：Markov> あーあ
+> どしたの
+ptna：Template> 馬鹿かどうかは問題じゃない
+> 君も悩んでいるんだね
+ptna：Pattern> どういうこと？
+> ブスかどうかを気にしてるのか
+ptna：Pattern> ブス
+> めっちゃ気にしてるじゃん
+ptna：Markov> 大丈夫、君は馬鹿だから
+> 面白いね
+ptna：TalkAPI> そうですね
+> ちょっと頭良くなったんじゃない？
+ptna：Pattern> 頭よくなった？
+> 頭良くなった！
+ptna：Pattern> 頭よくなった？
+> めっちゃ聞くやん
+ptna：Template> 気をつければいいってもんじゃないよ
+> じゃあどうするの
+ptna：Markov> 話逸らすな
+> ご、ごめんなさい
+ptna：Pattern> 大事ことは譲らないことだよ
+> もうすっかりモノにしたんだ
+ptna：Markov> お笑い芸人だよ
+> 笑わせようとしてくれたんだ
+ptna：Repeat> 笑わせようとしてくれたんだってなに？
+> 楽しませてくれてありがとう
+ptna：Random> ちょーいいじゃん
+> 君のおかげ
+ptna：Pattern> 知らなかった？
+> 素敵
+ptna：Pattern> かわいい
+> ちょろい
+ptna：Repeat> ちょろいってなに？
+> なんでもないよ
+ptna：TalkAPI> そうなんですね
